@@ -79,3 +79,10 @@
         display: none;
     }
 }
+
+.heightnav{
+    height: 6% !important;
+}
+.heightbody{
+    height: 93% !important;
+}
